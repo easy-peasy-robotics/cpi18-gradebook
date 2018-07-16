@@ -13,6 +13,10 @@
 
 ### [**jeljaik**](https://github.com/jeljaik) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-jeljaik](https://github.com/easy-peasy-robotics/assignment_git-jeljaik) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
