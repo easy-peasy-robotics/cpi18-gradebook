@@ -14,14 +14,9 @@
             "name": "tutorial_find-wally",
             "url": "https://github.com/vvv-school/tutorial_find-wally.git",
             "score": 2
-        }        
+        }
     ],
     "assignments": [
-        {
-            "name": "assignment_git",
-            "url": "https://github.com/vvv-school/assignment_git.git",
-            "score": 1
-        },
         {
             "name": "assignment_yarp-find-rgb",
             "url": "https://github.com/vvv-school/assignment_yarp-find-rgb.git",
