@@ -31,6 +31,10 @@
 
 ### [**gabrielenava**](https://github.com/gabrielenava) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-gabrielenava](https://github.com/easy-peasy-robotics/assignment_git-gabrielenava) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
