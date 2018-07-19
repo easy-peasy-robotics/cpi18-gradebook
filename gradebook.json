@@ -14,20 +14,7 @@
   {
     "username": "ayoubraji",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_yarp-find-rgb-ayoubraji",
-        "status": ":x:",
-        "last_commit_date": "2018-07-03 14:33:55 UTC",
-        "score": 5
-      },
-      {
-        "name": "assignment_control-pid-ayoubraji",
-        "status": ":x:",
-        "last_commit_date": "",
-        "score": 5
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {

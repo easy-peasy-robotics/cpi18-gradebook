@@ -16,11 +16,6 @@
 
 ### [**ayoubraji**](https://github.com/ayoubraji) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_yarp-find-rgb-ayoubraji](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-ayoubraji) | :x: | **0** |
-| [assignment_control-pid-ayoubraji](https://github.com/easy-peasy-robotics/assignment_control-pid-ayoubraji) | :x: | **0** |
-
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
