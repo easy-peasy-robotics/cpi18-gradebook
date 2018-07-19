@@ -41,7 +41,14 @@
   {
     "username": "Ahmed-Zakii",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_yarp-find-rgb-Ahmed-Zakii",
+        "status": ":x:",
+        "last_commit_date": "2018-07-03 14:33:55 UTC",
+        "score": 5
+      }
+    ],
     "score": 0
   },
   {
