@@ -2,21 +2,8 @@
   {
     "username": "PsyKoMari",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_yarp-find-rgb-PsyKoMari",
-        "status": ":x:",
-        "last_commit_date": "2018-07-03 14:33:55 UTC",
-        "score": 5
-      },
-      {
-        "name": "assignment_control-pid-PsyKoMari",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2018-07-03 14:33:11 UTC",
-        "score": 4
-      }
-    ],
-    "score": 4
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "RiccardoGrigoletto",
