@@ -49,6 +49,10 @@
 
 ### [**Lucamoro**](https://github.com/Lucamoro) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_yarp-find-rgb-Lucamoro](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Lucamoro) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
