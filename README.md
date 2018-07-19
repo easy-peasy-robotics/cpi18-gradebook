@@ -6,6 +6,7 @@
 |    :--:    |  :--:  | :--:  |
 | [assignment_yarp-find-rgb-PsyKoMari](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-PsyKoMari) | :x: | **0** |
 | [assignment_control-pid-PsyKoMari](https://github.com/easy-peasy-robotics/assignment_control-pid-PsyKoMari) | :x: | **0** |
+| [assignment_closest-blob-PsyKoMari](https://github.com/easy-peasy-robotics/assignment_closest-blob-PsyKoMari) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
