@@ -23,10 +23,6 @@
 
 ### [**Ahmed-Zakii**](https://github.com/Ahmed-Zakii) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_yarp-find-rgb-Ahmed-Zakii](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Ahmed-Zakii) | :x: | **0** |
-
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
