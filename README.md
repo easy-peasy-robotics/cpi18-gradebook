@@ -37,10 +37,6 @@
 
 ### [**Giorgiofossati**](https://github.com/Giorgiofossati) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_yarp-find-rgb-Giorgiofossati](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-Giorgiofossati) | :x: | **0** |
-
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
