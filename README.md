@@ -17,6 +17,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [assignment_yarp-find-rgb-RiccardoGrigoletto](https://github.com/easy-peasy-robotics/assignment_yarp-find-rgb-RiccardoGrigoletto) | :x: | **0** |
+| [assignment_control-pid-RiccardoGrigoletto](https://github.com/easy-peasy-robotics/assignment_control-pid-RiccardoGrigoletto) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
